@@ -14,4 +14,3 @@ while (s[i])
 
 return (i);
 }
-Footer
